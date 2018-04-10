@@ -28,27 +28,33 @@
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 维修技术
 
-1. Numbered
-2. List
+[工业平缝机的故障及排除] 缝纫机常见的断针故障的判断与维修
 
-**Bold** and _Italic_ and `Code` text
+[清洁] 缝纫机保养——清扫和润滑很重要
 
-[Link](url) and ![Image](src)
-```
+[检针机] 检针机如何保养？
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[圆头锁眼机的维修] 电脑圆头锁眼机的故障及维修
 
-### Jekyll Themes
+[工业平缝机的故障及排除] 电脑平缝机中电子夹线器的研究
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yahoouchen/xffzch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[包缝机的常见故障原因分析与解决方法] 如何处理激光打标机激光光束角度问题
 
-### Support or Contact
+[钉扣机的故障判断及排除] 钉扣机的故障判断和排除
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[包缝机的常见故障原因分析与解决方法] 包缝机常见故障原因分析与解决方法
+
+[包缝机的常见故障原因分析与解决方法] 包缝机常见故障原因分析与解决方法
+
+[工业平缝机的故障及排除] 工业平缝机的故障及排除（三）
+
+[工业平缝机的故障及排除] 工业平缝机的故障及排除（二）
+
+[工业平缝机的故障及排除] 工业平缝机的故障及排除
+
+##### 更多详情请拨打 13798263344 高级工程师咨询
+***
+
