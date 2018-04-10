@@ -1,5 +1,7 @@
 ## 兴烽发电脑针车行
 
+![](http://upload-images.jianshu.io/upload_images/2469183-0b450c5782b36343.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### 公司简介
 
    >深圳市兴烽发针车行创始于1992年，是一家专业生产工业缝纫的企业，公司拥有数名资深的高级工程师、技术员，集产品研发、设计、试制、生产、检测、销售及服务于一体，拥有完善的流水生产线，先进的数控加工中心。
@@ -24,7 +26,7 @@
 +地　　址： 广东省 深圳市 龙岗区 平湖大街359号
 
 
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
